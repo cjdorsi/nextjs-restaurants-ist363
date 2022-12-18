@@ -1,12 +1,8 @@
 import { useState } from 'react'
 
-import Button from '../components/Button'
 import Container from '../components/Container'
 import Grid from '../components/Grid'
-import Header from '../components/Header'
-import Footer from '../components/Footer'
 import Filters from '../components/Filters'
-import Heading from '../components/Heading'
 import Layout from '../components/Layout'
 import Showcase from '../components/Showcase'
 
